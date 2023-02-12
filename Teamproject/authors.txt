@@ -1,0 +1,210 @@
+author_id	author_name
+1	Frank Herbert
+2	Max Allan Collins
+3	George R.R. Martin
+4	Anthony Thorlby
+5	Gloria Goldreich
+6	Steve Augarde
+7	George Plimpton
+8	Charles Willeford
+9	Brian J Robb
+10	Gardner Dozois
+11	Barry Menikoff
+12	Robert Louis Stevenson
+13	Charles Neider
+14	Tasha Tudor
+15	Barbara Bray
+16	Robert A. Heinlein
+17	Daniel Abraham
+18	Marguerite Duras
+19	Quentin Blake
+20	Joan Aiken
+21	Russell Hoban
+22	James Neville Teller
+23	Mark Oshea
+24	Ansel Adams
+25	Kevin Henkes
+26	Hugh Grant
+27	Erving Goffman
+28	Anonymous
+29	Debbie Raleigh Alexandra Ivy
+30	Aesop
+31	Stephen R. Swinburne
+32	Don DeLillo
+33	Garry Wills
+34	Jim Brandenburg
+35	Thomas DePietro
+36	Robin Ellis
+37	Richard Curtis
+38	William Murray
+39	Matt Christopher
+40	Sian Phillips
+41	Tim Halliday
+42	Jonathan Metcalf
+43	Jeff Rovin
+44	Diane Duane
+45	Tom Clancy
+46	Michael Reaves
+47	Steve Perry
+48	Michael Jecks
+49	Steve Pieczenik
+50	Don Macmillan
+51	Rosalind M. Greenberg
+52	Martin H. Greenberg
+53	Wayne G. Broehl Jr.
+54	Daniel Stashower
+55	Harold Bloom
+56	William Manchester
+57	Philippa Gregory
+58	Marie Nonnast
+59	Doug Cushman
+60	Ha Jin
+61	S.E. Hinton
+62	Margaret Chodos Irvine
+63	Maxine Paetro
+64	John Steinbeck
+65	Anya Seton
+66	Alice Dalgliesh
+67	Bethany Roberts
+68	Janet S. Wong
+69	Lori McElrath Eslick
+70	Harry Bates
+71	James Patterson
+72	James N. Frey
+73	Robert D. Kaplan
+74	Nancy White Carlstrom
+75	Susan Oliver
+76	Sophie Kinsella
+77	Anne Stuart
+78	Eileen Dreyer
+79	Gregory Stevenson
+80	Leah Wilson
+81	David Sylvester
+82	Leo Bersani
+83	Jennifer Crusie
+84	Ian Stewart
+85	Clara Winston
+86	Richard Winston
+87	David Baratier
+88	Michael Kreyling
+89	Anna Maxted
+90	William T. Vollmann
+91	Julie Sylvester
+92	Mark Smylie
+93	Henry James
+94	Edwin A. Abbott
+95	Reinhold Messner
+96	Mary Jane Maffini
+97	Iain M. Banks
+98	Josef Pieper
+99	Simon Perchik
+100	Barry Lopez
+101	John Harold Haynes
+102	Philip Pullman
+103	Matt Keefe
+104	Fyodor Dostoyevsky
+105	Rob Humphreys
+106	Tom Robbins
+107	Jonathan Franzen
+108	Leonardo Padura
+109	John King
+110	James Wood
+111	James McBride
+112	Thomas Pynchon
+113	Alice Sebold
+114	Joseph Conrad
+115	Chet Green
+116	SparkNotes
+117	Sigrid Undset
+118	R. Scott Bakker
+119	Tiina Nunnally
+120	James Scott Bell
+121	Agatha Christie
+122	Qiu iaolong
+123	James W. Loewen
+124	Paul Kirk
+125	George Washington
+126	Tite Kubo
+127	Hirohiko Araki
+128	Tamora Pierce
+129	Brad Thor
+130	Ursula K. Le Guin
+131	Karen Kingsbury
+132	P.G. Wodehouse
+133	David Baldacci
+134	Alan Lightman
+135	Alexander McCall Smith
+136	Jim Powell
+137	Robert B. Baer
+138	Joan Didion
+139	Gabriel Garcia Marquez
+140	Edith Grossman
+141	Toni Morrison
+142	Ellen Meloy
+143	Rohinton Mistry
+144	Mao Zedong
+145	Mavis Applewater
+146	Stuart McLean
+147	Kahlil Gibran
+148	Richard B. Primack
+149	Robert Jordan
+150	Gertrude Chandler Warner
+151	William Stacy Johnson
+152	Candace Bushnell
+153	Robert Hardy Baker
+154	Ann McGovern
+155	Brittiany A. Koren
+156	Brian Stableford
+157	Mickey Zucker Reichert
+158	Fiona Patton
+159	Jim C. Hines
+160	Esther M. Friesner
+161	Donald J. Bingle
+162	Alan Dean Foster
+163	Devon Monk
+164	Phaedra M. Weldon
+165	Christina F. York
+166	Jana Paniccia
+167	Josepha Sherman
+168	Susan Sizemore
+169	Michael Jasper
+170	John Helfers
+171	Jean Rabe
+172	Allen J. Frantzen
+173	Lauren Henderson
+174	James Purdy
+175	Eudora Welty
+176	Robert Frost
+177	Danny Palmerlee
+178	Saul Bellow
+179	Mark S. Smith
+180	Matt Wagner
+181	Yumi Hotta
+182	Bruce H. Wilkinson
+183	Jean Gibran
+184	Robert Munsch
+185	Tsugumi Ohba
+186	Kyoko Hikawa
+187	Hiromu Arakawa
+188	Octavio Paz
+189	Stephen King
+190	Junichi Sat
+191	Mark Twain
+192	Truman Capote
+193	Tim Freke
+194	Anton Chekhov
+195	Dave Thomas
+196	Ben Avery
+197	Witold Gombrowicz
+198	Kim Wilson
+199	Rolland Hein
+200	Wang Wei
+201	Blaine M. Yorgason
+202	George MacDonald
+203	Virgil Barbara
+204	Upasika Kee
+205	Joyce Carol Oates
+206	Aeschylus
+207	Boris Pasternak
+208	Viktor E. Frankl
+209	Noam Chomsky
